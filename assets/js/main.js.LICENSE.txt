@@ -9,6 +9,12 @@
 */
 
 /*!
+ * FilePond 4.30.3
+ * Licensed under MIT, https://opensource.org/licenses/MIT/
+ * Please visit https://pqina.nl/filepond/ for details.
+ */
+
+/*!
  * GSAP 3.9.0
  * https://greensock.com
  *
@@ -27,5 +33,12 @@
  * Club GreenSock members, the agreement issued with that membership.
  * @author: Jack Doyle, jack@greensock.com
 */
+
+/*!
+ * clipboard.js v2.0.11
+ * https://clipboardjs.com/
+ *
+ * Licensed MIT © Zeno Rocha
+ */
 
 /*! svg4everybody v2.1.9 | github.com/jonathantneal/svg4everybody */
